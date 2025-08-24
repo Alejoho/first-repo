@@ -1,5 +1,5 @@
 # Our first-repo
-This is my "first" repo ever on GitHub
+This is my "first" repository(repo) ever on GitHub
 
 ## How to use the project
 This repo is for learning how to use GitHub. You can see how commits work, how 
