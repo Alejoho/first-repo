@@ -12,3 +12,5 @@ There's no way to contribute yet.
 This repo is part of the GitHub course on IAmTimCorey.com.
 
 The great Alejoho37
+
+And other people
