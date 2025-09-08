@@ -14,3 +14,5 @@ This repo is part of the GitHub course on IAmTimCorey.com.
 The great Alejoho37
 
 And other people
+
+And also thanks to Tim
